@@ -40,3 +40,5 @@ get_number = ReplyKeyboardMarkup(keyboard=[[KeyboardButton(text="Отправи�
                                  resize_keyboard=True,
                                  one_time_keyboard=True) #Запросить номер
 
+
+

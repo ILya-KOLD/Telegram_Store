@@ -7,7 +7,6 @@ import app.database.requests as rq
 
 import app.keyboards as kb
 
-
 router = Router()
 
 class Register(StatesGroup):

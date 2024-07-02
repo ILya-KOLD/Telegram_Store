@@ -24,3 +24,4 @@ async def get_item(item_id):
         return await session.scalar(select(Item).where(Item.id == item_id))
 
 
+
